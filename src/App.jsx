@@ -1,5 +1,9 @@
+import Actions from "./Components/Actions";
+
 function App() {
-    return <></>;
+    return <>
+    <Actions />
+    </>;
 }
 
 export default App;
